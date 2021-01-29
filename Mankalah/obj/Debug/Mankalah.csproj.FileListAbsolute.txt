@@ -1,0 +1,7 @@
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\bin\Debug\Mankalah.exe.config
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\bin\Debug\Mankalah.exe
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\bin\Debug\Mankalah.pdb
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\obj\Debug\Mankalah.csprojAssemblyReference.cache
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\obj\Debug\Mankalah.csproj.CoreCompileInputs.cache
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\obj\Debug\Mankalah.exe
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\obj\Debug\Mankalah.pdb

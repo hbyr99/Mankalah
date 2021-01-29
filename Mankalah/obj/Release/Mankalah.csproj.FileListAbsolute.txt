@@ -1,0 +1,2 @@
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\obj\Release\Mankalah.csprojAssemblyReference.cache
+C:\Users\Henry Louis\source\repos\Mankalah\Mankalah\obj\Release\Mankalah.csproj.CoreCompileInputs.cache
